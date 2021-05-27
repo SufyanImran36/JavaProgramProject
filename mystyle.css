@@ -1,0 +1,152 @@
+
+
+		body{
+			
+			background-color:#FFFFFF; 
+			background-image: url('Whity.jpg');
+			
+		}
+		
+		#a{
+			color:red;
+			font-weight:bold;
+		}
+
+		#sec2 h3{
+			text-align:center; 
+			 font-size:25;
+			font-family:helvetica;
+			color: #DE354C;
+			}
+		
+		#sec3 h3{
+			text-align:center; 
+			 font-size:25;
+			font-family:helvetica;
+			color: #DE354C;
+			}
+
+		#sec1 h3{
+			text-align:center; 
+			 font-size:25;
+			font-family:helvetica;
+			color: #DE354C;
+			}
+		#nav h3{
+			text-align:center; 
+			 font-size:25;
+			font-family:helvetica;
+			color: #DE354C;
+		}
+
+		#nav h3{
+			padding:10px;
+		}
+
+		#sec1 p{
+			font-family:Alegreya Sans;
+			color:#3C1874; 
+			text-align: justify;
+			font-size:30px;
+			padding-left:3px;
+			margin:1px;
+		}
+		#sec2 p{
+			font-family:Alegreya Sans;
+			color:#3C1874; 
+			text-align: justify;
+			font-size:30px;
+			padding-left:3px;
+			margin:1px;
+		}
+		#sec3 p{
+			font-family:Alegreya Sans;
+			color:#3C1874; 
+			text-align: justify;
+			font-size:30px;
+			padding-left:3px;
+			margin:1px;
+		}
+
+		#pic1{
+			float:left;
+			
+		}
+			
+		#pic2{
+			float:right;
+			
+			
+		}
+
+		#content{
+			background-color: #932432;
+			margin-right: auto;
+			margin-left: 10px;
+			width: 1200px;
+			height:1200px;
+			padding: 10px;
+			margin-bottom: 30px;
+			
+		}
+		
+		#nav{
+			background-color: #F3F3F3;
+			color:white;
+			float: left;
+			width:180px;
+			height:180px;
+			
+			
+		}
+		
+		#nav li{
+			list-style-type: none;
+			padding: 3px;
+			font-size:20px
+			
+		}
+		
+		
+		#sec1{
+			background-color: #F3F3F3;
+			color:white;
+			float: right;
+			width: 1000px;
+			height:250px;
+			
+	
+			
+		}
+
+		#sec2{
+			background-color: #F3F3F3;
+			color:while;
+			float: right;
+			width: 1000px;
+			height:250px;
+			/padding-left:10px;
+			/padding-down:100px;
+			margin-top:30px;
+			
+	
+
+
+		}
+		
+		#sec3{
+			background-color: #F3F3F3;
+			color:while;
+			float: right;
+			width: 1000px;
+			height:250px;
+			/padding-left:10px;
+			/padding-down:100px;
+			margin-top:30px;
+}
+
+		
+
+		
+
+		
